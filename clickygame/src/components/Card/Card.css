@@ -1,0 +1,30 @@
+.card {
+  border-radius: 2px;
+  height: 250px;
+  margin: 1rem;
+  position: relative;
+  box-shadow: 0 3px 6px black, 0 3px 6px black;
+  text-align: left;
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+  text-align: center;
+  background: url("https://us.123rf.com/450wm/yamabikay/yamabikay1612/yamabikay161200085/69448418-poker-table-felt-background-high-resolution-photo-.jpg?ver=6");
+}
+.card > .img-container > img {
+  width: 50%
+}
+
+.card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+}
+
+
+
+
+
+
